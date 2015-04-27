@@ -1,0 +1,39 @@
+.row{
+	margin:20px 0px;
+}
+
+#viewdetails .image {
+    min-width: 40px;
+    text-align: center;
+}
+
+#viewdetails .num {
+    min-width: 20px;
+    text-align: center;
+}
+
+.table > thead > tr > th, .table > tbody > tr > th, .table > tfoot > tr > th, .table > thead > tr > td, .table > tbody > tr > td, .table > tfoot > tr > td {
+    vertical-align: middle;
+}
+
+.results-row{
+	margin-bottom:40px;
+}
+
+.jqplot-table-legend {
+    padding: 5px !important;
+}
+
+.jqplot-pie-series.jqplot-data-label {
+    color: #ffffff;
+}
+
+#filterform .col-sm-2{
+	margin-left:15px;
+	margin-right:15px;
+}
+
+.italics{
+	font-style:italic;
+	font-size: 12px;
+}
