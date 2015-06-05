@@ -90,6 +90,14 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-sm-12 text-center">
+				<h4>Έτος <strong>
+				<?php 
+					echo date('Y');
+				?></strong></h4>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-sm-12 text-center">
 				<h4>Αποτελέσματα: <strong>
 				<?php 
 					echo $top_label;
